@@ -1,6 +1,5 @@
 There are 4 files taken from https://patentsview.org/download/data-download-tables
-Tried to use the API but the documentation on the website () is quite bad and I kept being denied permission even with the API key.
-https://patentsview.org/apis/purpose
+Tried to use the API but the documentation on the website (https://patentsview.org/apis/purpose) is quite bad and I kept being denied permission even with the API key.
 https://search.patentsview.org/swagger-ui/
 
 The files include:
